@@ -1,6 +1,6 @@
 package String;
 
-public class Anagram {
+public class TwoStringsAreAnagrams {
     /**
      * @param s: The first string
      * @param b: The second string
