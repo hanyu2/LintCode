@@ -1,8 +1,10 @@
 package Greedy;
 
-public class MajorityBumber2 {
+import java.util.ArrayList;
+
+public class MajorityNumber2 {
 	public int majorityNumber(ArrayList<Integer> nums) {
-		// write your code
+		// write your codeØ
 		if (nums == null || nums.size() == 0) {
 			return -1;
 		}
